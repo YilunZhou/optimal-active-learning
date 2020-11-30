@@ -1,0 +1,7 @@
+'cnn optimal', (0, 227)
+'cnn max-entropy', (512, 227)
+'boe max-entropy', (1024, 227)
+'random', (1536, 227)
+'lstm optimal', (2048, 227)
+'boe optimal', (2560, 227)
+'lstm max-entropy', (3072, 227)

@@ -1,0 +1,1 @@
+This folder is intentionally left empty. If you run the search algorithm, the search logs will be saved here. Otherwise, please see the top-level [README](../../README.md) to download and place the log files here. 
