@@ -1,6 +1,6 @@
 # Optimal Active Learning Behaviors
 
-This is the code repository accompanying the paper [_Towards Understanding the Optimal Behaviors of Deep Active Learning Algorithms_](paper.pdf) by Yilun Zhou, Adi Renduchintala, Xian Li, Sida Wang, Yashar Mehdad and Asish Ghoshal. 
+This is the code repository accompanying the AISTATS 2021 paper [_Towards Understanding the Optimal Behaviors of Deep Active Learning Algorithms_](https://arxiv.org/abs/2101.00977) by Yilun Zhou, Adi Renduchintala, Xian Li, Sida Wang, Yashar Mehdad and Asish Ghoshal. 
 
 There are three tasks, `object_classification`, `intent_classification`, and `named_entity_recognition`. Specific instructions are listed in `<task>/README.md` for each task. 
 
