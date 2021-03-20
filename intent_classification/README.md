@@ -22,7 +22,7 @@ sh scripts/random_baselines.sh
 ```
 
 ## Plot the performance curves for optimal, heuristic, and random baselines
-The command below will write the curves on validation and test sets to `statistics/curves.shv`.
+The command below will write the curves on validation and test sets to `statistics/perf_curves.shv`.
 
 Plots will be saved in `../figures/intent_classification/perf_curves/` directory.
 ```bash
@@ -30,7 +30,7 @@ sh scripts/performance_curve.sh
 ```
 
 ## Calculate and plot the seed transfer matrix
-The command will use results in `statistics/curves.shv` to plot the seed transfer matrix.
+The command will use results in `statistics/perf_curves.shv` to plot the seed transfer matrix.
 
 A plot named `../figures/intent_classification/seed_transfer.pdf` will be saved.
 ```bash

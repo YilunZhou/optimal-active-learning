@@ -60,7 +60,7 @@ def main(search_model_seed, eval_model_seed=None, data_seed=0, tot_acq=300, batc
     xmin1, xmax1, ymin1, ymax1 = plt.axis()
     plt.xticks(np.linspace(N_warmstart, tot_acq + N_warmstart, 5))
     plt.xlabel('# Data Points')
-    plt.ylabel('F1')
+    plt.ylabel('Accuracy')
     plt.title('Validation Set $\\mathcal{D}^V$')
     ax1 = plt.gca()
 

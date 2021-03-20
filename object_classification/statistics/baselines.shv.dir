@@ -44,3 +44,7 @@
 'odmr-l3-max-entropy test 0 0 25 100 20 300', (57344, 1273)
 'odmr-l4-max-entropy test 0 0 25 100 20 300', (58880, 1272)
 'max-entropy valid 3 0 25 100 20 300', (60416, 1285)
+'idmr-max-entropy test 1 0 25 100 20 300', (61952, 1277)
+'idmr-max-entropy test 2 0 25 100 20 300', (63488, 1272)
+'idmr-max-entropy test 3 0 25 100 20 300', (65024, 1272)
+'idmr-max-entropy test 4 0 25 100 20 300', (66560, 1268)
